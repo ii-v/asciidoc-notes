@@ -1,0 +1,4 @@
+= asciidoc - take note
+
+To convert the asciidoc file to `html`, just type `make` in your terminal when you're in this directory.
+Here's a manual to http://asciidoctor.org/docs/asciidoc-writers-guide/[asciidoc].

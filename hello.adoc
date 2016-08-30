@@ -1,0 +1,13 @@
+= A title is important
+Viktor Hagström TE16
+
+The preface, a _big_ *blob* of text.
+Currently it seems rather small though.
+
+== Smaller title here
+I haven't quite decided what to write about though.
+For your viewing experience; here is a bit of `code`.
+
+So, what do you think?
+Would this be usful in class when I'm taking notes?
+I think so.
